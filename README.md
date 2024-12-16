@@ -28,7 +28,7 @@ The BMI is categorized into three grades based on the value:
 # Results
 ## BMI Prediction:
 - MAE: 3.48, MSE: 20.29, R²: 0.21, Pearson Correlation: 0.46
-- Accuracy in categorization: 78.95%
+- Accuracy in categorization: 75.95%
 ## Gender Classification:
 - Accuracy: 97.66%
 
